@@ -1,0 +1,1 @@
+# kokoro-go-proto
